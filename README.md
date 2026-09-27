@@ -47,3 +47,6 @@ The Power BI dashboard summarizes revenue performance across different time peri
 
 More details and findings will be added as part of the project documentation.
 
+## Dashboard
+
+![Coffee Shop Sales Dashboard](dashboard)
