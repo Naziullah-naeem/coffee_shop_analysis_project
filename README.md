@@ -49,4 +49,4 @@ More details and findings will be added as part of the project documentation.
 
 ## Dashboard
 
-![Coffee Shop Sales Dashboard](Dashboard.png)
+![Coffee Shop Sales Dashboard](dashboard.png)
